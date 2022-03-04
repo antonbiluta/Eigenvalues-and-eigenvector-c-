@@ -1,0 +1,3 @@
+﻿  Eigenvaluevector.cpp
+D:\Dev\Projects\C++\Eigenvaluevector\Eigenvaluevector\Eigenvaluevector.cpp(49,11): warning C4101: v: неиспользованная локальная переменная
+  Eigenvaluevector.vcxproj -> D:\Dev\Projects\C++\Eigenvaluevector\x64\Debug\Eigenvaluevector.exe
